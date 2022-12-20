@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/react-portfolio/static/css/main.af6ff638.css",
+    "main.js": "/react-portfolio/static/js/main.2e4a9c1b.js",
+    "static/media/profile.png": "/react-portfolio/static/media/profile.026787b10f236e7fce4d.png",
+    "static/media/Pawnesh-CV.pdf": "/react-portfolio/static/media/Pawnesh-CV.e384472100d61c73e5fe.pdf",
+    "static/media/about.png": "/react-portfolio/static/media/about.6f10dc6c3cf686686042.png",
+    "static/media/testimonial3.png": "/react-portfolio/static/media/testimonial3.2e18bfe27c6d2e2e9fdc.png",
+    "static/media/work2.jpg": "/react-portfolio/static/media/work2.e52a0c2981a6c11ba468.jpg",
+    "static/media/testimonial2.png": "/react-portfolio/static/media/testimonial2.39a53f7f092f07f5bceb.png",
+    "static/media/work4.jpg": "/react-portfolio/static/media/work4.aee985961b648f4df1f2.jpg",
+    "static/media/work5.jpg": "/react-portfolio/static/media/work5.094ec4a2224db8908873.jpg",
+    "static/media/work1.jpg": "/react-portfolio/static/media/work1.321b4ae3bf404acdfdc6.jpg",
+    "static/media/work3.jpg": "/react-portfolio/static/media/work3.135e9065694bc13dc31d.jpg",
+    "static/media/testimonial1.png": "/react-portfolio/static/media/testimonial1.89079c1d25f2c94ceb89.png",
+    "index.html": "/react-portfolio/index.html",
+    "main.af6ff638.css.map": "/react-portfolio/static/css/main.af6ff638.css.map",
+    "main.2e4a9c1b.js.map": "/react-portfolio/static/js/main.2e4a9c1b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.af6ff638.css",
+    "static/js/main.2e4a9c1b.js"
+  ]
+}
